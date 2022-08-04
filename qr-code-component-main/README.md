@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In this project I could remember the beginner concepts of flexbox and media queries to get the site responsive.
+In this project I could remember the base concepts of flexbox and media queries to get the site responsive.
 
 
 ## Author
