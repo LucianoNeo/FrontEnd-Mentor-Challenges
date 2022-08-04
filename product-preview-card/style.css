@@ -122,6 +122,7 @@ button {
     background-repeat: no-repeat;
     background-position: 40px;
     width: 90%;
+    cursor: pointer;
 }
 
 
