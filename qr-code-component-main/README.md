@@ -44,5 +44,5 @@ In this project I could remember the base concepts of flexbox and media queries 
 ## Author
 
 - Website - [LucianoNeo](https://github.com/LucianoNeo)
-- Frontend Mentor - [@lucianoneo](https://www.frontendmentor.io/profile/lucianoneo)
+- Frontend Mentor - [@LucianoNeo](https://www.frontendmentor.io/profile/LucianoNeo)
 - Twitter - [@lucianoneo](https://www.twitter.com/lucianoneo)
