@@ -36,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-In this project I have applied  the basics of flex grid and media queries to get the site responsive.
+In this project I have applied  the basics of css grid and media queries to get the site responsive.
 
 
 ## Author
